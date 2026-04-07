@@ -1,5 +1,5 @@
-## Python Foundations Assignment
-# Overview
+# Python Foundations Assignment
+## Overview
 
 This repository contains my solutions for the Python Foundations Daily Assignment.
 The goal of this project is to demonstrate understanding of core Python concepts such as:
@@ -12,7 +12,7 @@ Basic problem-solving and algorithms
 
 All tasks from Level 1, Level 2, and Level 3 have been implemented.
 
-📁 Project Structure
+## Project Structure
 python-foundations-assignment/
 │
 ├── level1/
@@ -30,7 +30,7 @@ python-foundations-assignment/
 │   └── tic_tac_toe.py
 │
 └── README.md
-# Level 1 Tasks
+## Level 1 Tasks
 ✅ Prime Number Checker
 Checks whether a number is prime
 Uses optimized approach (√n)
@@ -40,7 +40,7 @@ Handles invalid input (negative numbers)
 ✅ Reverse String
 Reverses a given string
 Uses Python slicing for efficiency
-# Level 2 Tasks
+## Level 2 Tasks
 ✅ Largest Number in a List
 Finds the maximum value manually (without built-in max())
 ✅ Vowel Counter
@@ -49,7 +49,7 @@ Handles both uppercase and lowercase
 ✅ Fibonacci Sequence
 Generates Fibonacci sequence up to n terms
 Demonstrates loop-based algorithm
-# Level 3 Tasks
+## Level 3 Tasks
 ✅ CLI Calculator
 Supports:
 Addition (+)
